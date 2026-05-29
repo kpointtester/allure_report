@@ -1,0 +1,5 @@
+operation,content_name,content_section
+play,vega_manage_video 1,Videos
+play,vega_explore_playlist 1,Playlists
+play,vega_explore_channel 1,Channels
+play,vega_explore_event 1,Events

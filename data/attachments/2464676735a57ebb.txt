@@ -1,0 +1,1 @@
+Test failed because domain https://vega-testing.kpoint.com/ is unavailable

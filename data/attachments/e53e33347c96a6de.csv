@@ -1,0 +1,4 @@
+operation,channel_name
+everybody,channel_for_acl_and_delete
+logged_in,channel_for_acl_and_delete
+deletion,channel_for_acl_and_delete

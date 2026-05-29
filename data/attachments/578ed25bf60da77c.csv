@@ -1,0 +1,4 @@
+userid,password,title,expected
+cucuser1@kpoint.com,admin_password,restricted_channel,visible
+cucuser2@kpoint.com,admin_password,restricted_channel,not visible
+pankaj@kpoint.com,admin_password,restricted_channel,visible

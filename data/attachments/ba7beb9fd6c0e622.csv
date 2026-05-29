@@ -1,0 +1,5 @@
+userid,password,title,visibility
+anonymous,NA,restricted_channel,Not Visible
+siteadmin,admin_password,public_channel,Everybody
+cucuser1@kpoint.com,admin_password,logged_in_channel,All logged-in users
+cucuser1@kpoint.com,admin_password,restricted_channel,Restricted

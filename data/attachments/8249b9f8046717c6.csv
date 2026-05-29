@@ -1,0 +1,5 @@
+Filter_type,Sorting,Channels
+All,Latest First,"vega_explore_playlist 4,vega_explore_playlist 2,Video to edit highlights manually,Video to accept suggestions as highlights"
+All,Oldest First,"Video to accept suggestions as highlights,Video to edit highlights manually,vega_explore_playlist 2,vega_explore_playlist 4"
+All,A - Z,"vega_explore_playlist 2,vega_explore_playlist 4,Video to accept suggestions as highlights,Video to edit highlights manually"
+All,Z - A,"Video to edit highlights manually,Video to accept suggestions as highlights,vega_explore_playlist 4,vega_explore_playlist 2"

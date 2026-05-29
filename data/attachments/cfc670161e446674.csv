@@ -1,0 +1,5 @@
+Sorting,Channels
+Latest First,"vega_explore_channel 5,vega_explore_channel 4,vega_explore_channel 3,vega_explore_channel 2,vega_explore_channel 1"
+Oldest First,"vega_explore_channel 1,vega_explore_channel 2,vega_explore_channel 3,vega_explore_channel 4,vega_explore_channel 5"
+A - Z,"vega_explore_channel 1,vega_explore_channel 2,vega_explore_channel 3,vega_explore_channel 4,vega_explore_channel 5"
+Z - A,"vega_explore_channel 5,vega_explore_channel 4,vega_explore_channel 3,vega_explore_channel 2,vega_explore_channel 1"

@@ -1,0 +1,3 @@
+action,search_title,element,link_title,channel_name,verification
+add,Channel for video analytics,thumbnail,Channel for video analytics,Channel for video analytics,accessible
+remove,Channel for video analytics,thumbnail,Channel for video analytics,Channel for video analytics,inaccessible

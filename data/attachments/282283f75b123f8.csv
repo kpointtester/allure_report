@@ -1,0 +1,6 @@
+action,visibility,login_user,password,title,description
+creates,public,siteadmin,admin_password,Public Playlist,Public playlist through FT
+creates,selectedUsers,siteadmin,admin_password,Playlist For Selected Users,Playlist For Selected Users through FT
+creates,allLoggedInUsers,siteadmin,admin_password,Playlist For Logged In Users,Playlist For Logged In Users through FT
+creates,onlyMe,siteadmin,admin_password,Private Playlist,Private playlist through FT
+updates,onlyMe,siteadmin,admin_password,Updated Public Playlist,Updated Public playlist through FT

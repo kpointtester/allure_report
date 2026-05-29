@@ -1,0 +1,3 @@
+video_name,quiz_type,additional_params,add_question_type
+Video to add and delete quiz,startEnd,with,MCQ
+event_analytics,start,without,TEXT

@@ -1,0 +1,5 @@
+Filter_type,Sorting,Channels
+All,Latest First,"vega_explore_channel 5,vega_explore_channel 4,vega_explore_channel 3,vega_explore_channel 2,vega_explore_channel 1"
+All,Oldest First,"vega_explore_channel 1,vega_explore_channel 2,vega_explore_channel 3,vega_explore_channel 4,vega_explore_channel 5"
+All,A - Z,"vega_explore_channel 1,vega_explore_channel 2,vega_explore_channel 3,vega_explore_channel 4,vega_explore_channel 5"
+All,Z - A,"vega_explore_channel 5,vega_explore_channel 4,vega_explore_channel 3,vega_explore_channel 2,vega_explore_channel 1"

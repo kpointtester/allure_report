@@ -1,0 +1,4 @@
+title,description,visibility
+restricted_channel,restricted channel test,Restricted access
+public_channel,public channel test,Everybody
+logged_in_channel,logged_in channel test,All logged-in users
