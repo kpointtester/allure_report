@@ -1,0 +1,5 @@
+videoIndex,title,visibility
+1,Title 1,Private
+2,Title 2,Selected users/groups
+3,Title 3,All logged-in users
+4,Title 4,Everybody
